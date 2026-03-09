@@ -109,6 +109,10 @@ AI-native document editor with multi-agent pipeline architecture. Routes natural
 </table>
 
 
+div align="center">
+
+![](https://komarev.com/ghpvc/?username=abulmeez&color=6C63FF&style=flat-square&label=Profile+Views)
+
 *Open to relocation across Canada & remote opportunities*
 
 </div>
