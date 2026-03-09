@@ -27,7 +27,6 @@ focus: Computer Vision, NLP, Arabic Document Intelligence, ML Pipelines
 - 🔭 Currently building **Arabic document intelligence engines** and **fine-tuning vision & language models** for enterprise clients
 - 🧠 Previously worked on **prompt injection detection**, **AI SBOM analysis**, and **OWASP Top 10 for LLM Applications**
 - 🛠️ Building **[Doccera](https://github.com/abulmeez)** — an AI-native document editor powered by multi-agent LLM pipelines
-- 🌍 Fluent in **English**, **Arabic**, and **French**
 
 ---
 
