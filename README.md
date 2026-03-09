@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer;Computer+Vision+%7C+NLP+%7C+ML+Pipelines;McGill+CS+'25+(Artificial+Intelligence)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer;Computer+Vision+%7C+NLP+%7C+ML+Pipelines;McGill+CS+'25+(AI)" alt="Typing SVG" /></a>
 
 <br/>
 
